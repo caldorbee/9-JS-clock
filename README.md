@@ -34,4 +34,4 @@ After completing this assignment, you should:
 ## Resources
 
 - [Window Timers](https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers)
-- [JavaScript Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- [JavaScript Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objegitcts/Date)
